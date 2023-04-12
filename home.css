@@ -1,0 +1,152 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  padding: 20px;
+}
+
+.header2 {
+  background: rgb(54, 196, 179);
+  border-left: 1px solid rgba(255, 255, 255.3);
+  border-top: 1px solid rgba(255, 255, 255.3);
+  display: flex;
+  justify-content: top;
+  align-items: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.container {
+  background: rgba(54, 196, 180, 0.226);
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.form {
+  float: right;
+  display: flex;
+  align-items: center;
+  border: 1px black solid;
+  padding: 20%;
+}
+
+
+.icon {
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container2 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+  border: 5px rgba(182, 187, 187, 0.568) solid;
+  border-radius: 2%;
+  width: 300px;
+  height: 400px;
+  align-items: center;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  display: flex;
+
+}
+
+input[type="text"] {
+  background-color: #dbdbdb;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: #baf0bb;
+}
+
+.text {
+  text-align: center;
+}
+
+.photo {
+  display: flex;
+  justify-content: space-around;
+  
+  padding: 10px;
+  
+}
+
+.p1{
+  background-color: #baf0bb;
+border-bottom: #baf0bb;
+padding: 50px;
+}
+
+.p2{
+  background-color: #baf0bb;
+  border-bottom: #baf0bb;
+  padding: 50px;
+  }
+
+
+
+.p3{
+  background-color: #baf0bb;
+  border-bottom: #baf0bb;
+padding: 50px;
+border-color: #baf0bb;
+}
+
+
+.iconM{
+  
+}
+
+
+
+.container4A{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.container5{
+  background-color: rgba(54, 196, 180, 0.226);
+  padding: 250px;
+}
+
+.form2{
+  float: right;
+  display: flex;
+  align-items: center;
+
+}
